@@ -1,13 +1,5 @@
 # HC12 LED Dimming Program
 
-## Academic Integrity Statement
-
-Please note that all work included in this project is the original work of the author, and any external sources or references have been properly cited and credited. It is strictly prohibited to copy, reproduce, or use any part of this work without permission from the author.
-
-If you choose to use any part of this work as a reference or resource, you are responsible for ensuring that you do not plagiarize or violate any academic integrity policies or guidelines. The author of this work cannot be held liable for any legal or academic consequences resulting from the misuse or misappropriation of this work.
-
-Any unauthorized copying or use of this work may result in serious consequences, including but not limited to academic penalties, legal action, and damage to personal and professional reputation. Therefore, please use this work only as a reference and always ensure that you properly cite and attribute any sources or references used.
-
 ## Overview
 
 This repository contains an assembly language program for the HC12 microcontroller. The program's objective is to dim LED lights on the CSM-12C128 board using the Pulse Width Modulation (PWM) technique. This README provides instructions on setting up the hardware, configuring the software, and running the program on the CodeWarrior debugger/simulator.
@@ -70,3 +62,10 @@ To run the program on the CodeWarrior debugger/simulator, follow these steps:
 - The dimming effect on the actual CSM-12C128 board may appear as fast blinking on the simulator.
 - Ensure that your hardware connections are correct to see the desired LED behavior.
 
+# Academic Integrity Statement
+
+Please note that all work included in this project is the original work of the author, and any external sources or references have been properly cited and credited. It is strictly prohibited to copy, reproduce, or use any part of this work without permission from the author.
+
+If you choose to use any part of this work as a reference or resource, you are responsible for ensuring that you do not plagiarize or violate any academic integrity policies or guidelines. The author of this work cannot be held liable for any legal or academic consequences resulting from the misuse or misappropriation of this work.
+
+Any unauthorized copying or use of this work may result in serious consequences, including but not limited to academic penalties, legal action, and damage to personal and professional reputation. Therefore, please use this work only as a reference and always ensure that you properly cite and attribute any sources or references used.
